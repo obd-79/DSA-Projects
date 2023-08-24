@@ -15,7 +15,7 @@ This repository contains a collection of projects that demonstrate various conce
   - Implementation of a posting list with hashing to find documents containing a given word.
 ### 4. Game of Thrones Network
 - Modeling connections between characters in Game of Thrones using a weighted graph.
-- [More details](link-to-specific-folder-or-documentation)
+- [Game of Thrones Network](https://github.com/obd-79/DSA-Projects/tree/main/Game-of-Thrones-Network/Project%203)**
 
 ## Installation and Usage
 
