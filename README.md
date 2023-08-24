@@ -10,11 +10,11 @@ This repository contains a collection of projects that demonstrate various conce
 
 ### 2. Music Song Record System
 - Binary Search Tree Map based system for managing musical records.
-- [More details](link-to-specific-folder-or-documentation)
+- [View Project](https://github.com/obd-79/DSA-Projects/tree/main/Music%20Song%20Record%20System/Project2part1)
 
 ### 3. Creating a Posting List with Hashing
 - Hashing techniques to create a posting list for document retrieval.
-- [More details](link-to-specific-folder-or-documentation)
+- [View Project](https://github.com/obd-79/DSA-Projects/tree/main/Music%20Song%20Record%20System/project2part2)
 
 ### 4. Game of Thrones Network
 - Modeling connections between characters in Game of Thrones using a weighted graph.
