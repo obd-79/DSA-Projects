@@ -8,14 +8,11 @@ This repository contains a collection of projects that demonstrate various conce
 - Implementation of a circular linked list to simulate a game scenario.
 - [View Project](https://github.com/obd-79/DSA-Projects/tree/main/project-1-loose-the-letter)
 
-### 2. Music Song Record System
-- Binary Search Tree Map based system for managing musical records.
-- [View Project](https://github.com/obd-79/DSA-Projects/tree/main/Music%20Song%20Record%20System/Project2part1)
-
-### 3. Creating a Posting List with Hashing
-- Hashing techniques to create a posting list for document retrieval.
-- [View Project](https://github.com/obd-79/DSA-Projects/tree/main/Music%20Song%20Record%20System/project2part2)
-
+### 2. Binary Search Tree Map based Music Song Record System
+- [Part 1: BST Map for Music Record System](https://github.com/obd-79/DSA-Projects/tree/main/Music%20Song%20Record%20System/Project2part1)
+  - Implementation of a music song record system using Binary Search Trees (BST).
+- [Part 2: Creating a Posting List with Hashing](https://github.com/obd-79/DSA-Projects/tree/main/Music%20Song%20Record%20System/project2part2)
+  - Implementation of a posting list with hashing to find documents containing a given word.
 ### 4. Game of Thrones Network
 - Modeling connections between characters in Game of Thrones using a weighted graph.
 - [More details](link-to-specific-folder-or-documentation)
