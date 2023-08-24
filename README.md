@@ -6,7 +6,7 @@ This repository contains a collection of projects that demonstrate various conce
 
 ### 1. Loose the Letter and Table
 - Implementation of a circular linked list to simulate a game scenario.
-- [More details]([https://github.com/obd-79/DSA-Projects/tree/main/project-1-loose-the-letter])
+- [View Project](https://github.com/obd-79/DSA-Projects/tree/main/project-1-loose-the-letter)
 
 ### 2. Music Song Record System
 - Binary Search Tree Map based system for managing musical records.
